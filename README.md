@@ -1,5 +1,7 @@
 # Context Saver Skill
 
+> [中文版](README.zh.md)
+
 A Claude Code skill for saving and loading experiment context snapshots, designed to handle long-running research sessions that exceed context window limits.
 
 ## Features
